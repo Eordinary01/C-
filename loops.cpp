@@ -12,6 +12,10 @@ cin>>age;
 if (age>=18){
     cout<<"You can vote!!"<<endl;
 }
+else if(age<=0){
+    cout<<"Nalla!"<<endl;
+
+}
 else{
     cout<<"Vai Ghar jayoo!!"<<endl;
 }
