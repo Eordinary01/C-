@@ -44,6 +44,8 @@ int main() {
                 break;
             default:
                 cout << "Enter a valid choice (1-5)" << endl;
+                cout << "-------------------------------------" << endl;
+                cout << "-------------------------------------" << endl;
                 break;
         }
 
