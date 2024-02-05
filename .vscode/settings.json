@@ -3,6 +3,10 @@
         "*.ejs": "html",
         "*.css": "css",
         "*.js": "javascriptreact",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "clang-diagnostic-error"
+    ]
 }
