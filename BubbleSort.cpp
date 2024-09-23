@@ -17,7 +17,7 @@ void bubbleSort(int arr[], int n){
     cout<<"Number of Swaps: "<<SwapCount<<endl;
 }
 int main(){
-    int A[]={9,10,11,5,6};
+    int A[]={9,10,11,6,15,2};
     int N = sizeof(A)/sizeof(A[0]);
 
     bubbleSort(A,N);
